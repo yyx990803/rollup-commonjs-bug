@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-is": "^16.13.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^12.0.0",
+    "@rollup/plugin-node-resolve": "^8.0.0",
+    "rollup": "^2.11.2"
+  }
+}
